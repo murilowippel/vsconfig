@@ -1,0 +1,2 @@
+# vsconfig
+Tempero do chefe
